@@ -1,0 +1,3 @@
+-keepnames class com.reeuse.imageloader.GlideConfig
+# or more generally:
+-keep public class * implements com.bumptech.glide.module.GlideModule

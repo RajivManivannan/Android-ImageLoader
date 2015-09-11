@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+    <string name="android_image_loader_libraries">Android Imageloader Libraries</string>
+
+    <string name="glide">Glide by Google</string>
+    <string name="square">Picasso by Square</string>
+    <string name="fresico">Fresco by Facebook</string>
+
+    <string name="title_activity_glide">GlideActivity</string>
+    <string name="title_activity_picasso">PicassoActivity</string>
+    <string name="title_activity_fresco">FrescoActivity</string>
+    <string name="load_image">Load Image</string>
+
+
+</resources>
