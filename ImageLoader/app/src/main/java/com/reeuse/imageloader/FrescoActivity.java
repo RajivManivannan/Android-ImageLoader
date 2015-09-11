@@ -61,7 +61,7 @@ public class FrescoActivity extends AppCompatActivity {
     private void loadImage() {
         //uri = Uri.parse("https://www.android.com/static/img/banners/wear3-768.png");
         // uri = Uri.parse("https://www.gstatic.com/webp/gallery/2.sm.webp"); // WebP image support from android 2.3
-        uri = Uri.parse("https://s3.amazonaws.com/giphygifs/media/4aBQ9oNjgEQ2k/giphy.gif");// Gif image
+        uri = Uri.parse("https://raw.githubusercontent.com/RajivManivannan/ImageLoader/master/android_bot_500x470_140KB_gif.gif");// Gif image
 
         //We can set the below config in xml as well as programmatically
         /*

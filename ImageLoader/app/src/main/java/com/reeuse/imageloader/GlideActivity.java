@@ -40,7 +40,7 @@ public class GlideActivity extends AppCompatActivity {
         String url;
         //Reference link - https://github.com/bumptech/glide/wiki/Configuration
          url = "https://www.android.com/static/img/banners/wear3-768.png";
-        //url = "https://s3.amazonaws.com/giphygifs/media/4aBQ9oNjgEQ2k/giphy.gif";
+        //url = "https://raw.githubusercontent.com/RajivManivannan/ImageLoader/master/android_bot_500x470_140KB_gif.gif";
         /*For custom config */
         GlideBuilder glideBuilder = new GlideBuilder(this);
         // To set the space for Disk cache.
