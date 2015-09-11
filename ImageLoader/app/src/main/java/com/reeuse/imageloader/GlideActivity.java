@@ -39,7 +39,8 @@ public class GlideActivity extends AppCompatActivity {
     private void loadImage() {
         String url;
         //Reference link - https://github.com/bumptech/glide/wiki/Configuration
-         url = "https://www.android.com/static/img/banners/wear3-768.png";
+         //url = "https://raw.githubusercontent.com/RajivManivannan/ImageLoader/master/lollipop_1536x1158_318KB.jpg";
+         url = "https://raw.githubusercontent.com/RajivManivannan/ImageLoader/master/lollipop_1536x1158_318KB_webp.webp";
         //url = "https://raw.githubusercontent.com/RajivManivannan/ImageLoader/master/android_bot_500x470_140KB_gif.gif";
         /*For custom config */
         GlideBuilder glideBuilder = new GlideBuilder(this);
